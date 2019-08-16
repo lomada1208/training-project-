@@ -1,2 +1,2 @@
-# training-project-
+# training
 this is repository project 
